@@ -1,0 +1,49 @@
+body {
+    margin: 0;
+    background-color: crimson;
+}
+
+header {
+    position: relative;
+    padding-left: 100px;
+}
+
+nav {
+    position: absolute;
+    top: 0;
+    right: 100px;
+}
+
+ui{
+  display: flex;
+  color: blue;
+  list-style-type: none;
+  text-align: center;
+}
+
+li{
+    color: blue;
+    padding-right: 100px;
+    font-weight: bold;
+    font-size: 20px;
+    list-style-type: none;
+    float: right;
+}
+
+.introductions {
+ 
+}
+
+.introduction {
+  display: flex;
+}
+
+.carps {
+  padding-left: 50px;
+  text-align: left;
+  text-align: left;
+}
+
+.img {
+  width: auto;
+}
